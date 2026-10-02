@@ -205,6 +205,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 - [Contexo](https://github.com/maheedhar132/Contexo) - Portable AI context and cost control across every AI coding harness.
 - [Context Guard](https://github.com/GreenLv/codex-context-guard) - Preserves authoritative requirements and verification evidence across long-running Codex tasks and context compaction.
 - [Context Optimizer](https://github.com/evermeer/context-optimizer) - Keep your coding agent's context small. When a session gets compacted, Context Optimizer reranks the relevant parts, drops duplicates, and compresses the rest with a local ML pipeline (LLMLingua-2 + Sentence Transformers)
+- [ContextPilot](https://github.com/EfficientContext/ContextPilot) - Context optimization engine that reorders and deduplicates context blocks to raise cache hits, shipping as plugins for OpenClaw and Hermes.
 - [Contorium](https://github.com/ContoriumLabs/contorium) - Runtime continuity layer for AI coding agents, providing persistent workspace state, Git-aware sessions, and MCP-based context retrieval across tools and agent runs.
 - [Coordinate Agents](https://github.com/hogancv/coordinate-agents) - Plugin-first multi-agent coordination tool with a local-first, recoverable Agent Bus and human-gated planning, implementation, review, and release workflows.
 - [Cover My Repo](https://github.com/sjh9714/cover-my-repo) - Designs three checked GitHub social preview cards with Codex or Cursor, then renders them locally with Chrome.
@@ -871,7 +872,6 @@ The score is best used as a quick trust signal and triage summary (not the only 
 
 - [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - Community-maintained DSH plugin list and discovery reference.
 - [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - Codex-focused catalog that inspired this cross-platform list.
-- [ContextPilot](https://github.com/EfficientContext/ContextPilot) - Long-context inference optimization tool that reorders and deduplicates context blocks to improve prefix-cache reuse across vLLM, SGLang, llama.cpp, OpenClaw, RAG, and agentic workloads.
 - [HOL Plugin Registry](https://hol.org/registry/plugins) - Browse plugins with scanner-backed security analysis and trust scores.
 - [Kimi Code](https://github.com/MoonshotAI/kimi-code) - Official Kimi Code runtime and plugin documentation.
 - [xAI Grok Plugin Marketplace](https://github.com/xai-org/plugin-marketplace) - Official Grok Build plugin marketplace and catalog format.
