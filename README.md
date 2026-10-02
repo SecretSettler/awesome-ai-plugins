@@ -871,6 +871,7 @@ The score is best used as a quick trust signal and triage summary (not the only 
 
 - [Awesome DeepSeek Harness Plugins](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - Community-maintained DSH plugin list and discovery reference.
 - [awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins) - Codex-focused catalog that inspired this cross-platform list.
+- [ContextPilot](https://github.com/EfficientContext/ContextPilot) - Long-context inference optimization tool that reorders and deduplicates context blocks to improve prefix-cache reuse across vLLM, SGLang, llama.cpp, OpenClaw, RAG, and agentic workloads.
 - [HOL Plugin Registry](https://hol.org/registry/plugins) - Browse plugins with scanner-backed security analysis and trust scores.
 - [Kimi Code](https://github.com/MoonshotAI/kimi-code) - Official Kimi Code runtime and plugin documentation.
 - [xAI Grok Plugin Marketplace](https://github.com/xai-org/plugin-marketplace) - Official Grok Build plugin marketplace and catalog format.
